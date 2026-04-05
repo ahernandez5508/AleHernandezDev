@@ -9,7 +9,7 @@
 
 - 💬 I'm a software developer. Passionate about programming and a tech nerd, I love creating and learning new things. 
 
-- 📫 How to reach me **ahernandez5508@gmail.com**
+- 📫 How to reach me **a.hernandez@outlook.com.ar**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejandro-martin-hernandez/](https://www.linkedin.com/in/alejandro-martin-hernandez/)
 
