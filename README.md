@@ -51,5 +51,5 @@
 <h3 align="left">Projects (Newest first):</h3>
 <ul>
   <li><a><a href="https://github.com/AleHernandez31/LaberintoRitmico">Rhythm game developed in C++ and SFM</a><i> (C++ - SFM)</</li>
-  <li><a><a href="https://github.com/AleHernandez31/Films-API">API RESTFul for movies CRUD</a><i> (JAVA - Spring Boot - Spring Data - JPA - Swagger)</</li>
+  <li><a><a href="https://github.com/AleHernandez31/Movies-API">API RESTFul for movies CRUD</a><i> (JAVA - Spring Boot - Spring Data - JPA - Swagger)</</li>
 </ul>
