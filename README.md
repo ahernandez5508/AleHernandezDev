@@ -1,15 +1,12 @@
 <!-- Generado con ayuda de Claude -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alejandro%20Hernández&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
-
 <p align="center">
   <a href="https://github.com/amhernandez5508">
     <img src="https://komarev.com/ghpvc/?username=amhernandez5508&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
   </a>
 </p>
-
 <p align="center">
   <em>Software Developer · Passionate about programming and a tech nerd · I love creating and learning new things</em>
 </p>
@@ -65,9 +62,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleHernandezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AleHernandezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleHernandezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleHernandezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true&hide=cmake" height="170"/>
 </div>
 
 <br>
